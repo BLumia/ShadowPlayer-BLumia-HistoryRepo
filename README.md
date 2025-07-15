@@ -3,7 +3,12 @@ ShadowPlayer-BLumia
 
 ## 使用前必读
 
-这是一个历史项目，出于仍在被使用的缘故而在偶然的进行维护。此项目依赖 [bass](https://www.un4seen.com/bass.html) 库，且目前仅支持 Windows/MSVC 构建。出于方便起见，此仓库也放置了一些二进制文件。
+> [!IMPORTANT]  
+> 这是一个历史项目，尽管出于仍在被使用的缘故而在偶然的进行维护，但也更换了仓库位置。
+> - 若需要查看这个仓库仍在维护的版本，请移步： [BLumia/ShadowPlayer-BLumia](https://github.com/BLumia/ShadowPlayer-BLumia)
+> - 若希望了解此项目的替代项目，请移步： [BLumia/pineapple-music](https://github.com/BLumia/pineapple-music)
+
+此项目依赖 [bass](https://www.un4seen.com/bass.html) 库，且目前仅支持 Windows/MSVC 构建。出于方便起见，此仓库也放置了一些二进制文件。
 
 此项目不包含任何曲库管理功能，且以后也不会包含此功能。
 
